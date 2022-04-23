@@ -12,7 +12,7 @@ A collection of comments for wordpress or other systems. Guaranteed fresh and ad
  + Friendly format (plaintext, sql)
 
 ## What's Next?
- + Comment Import Routine
+ + Comment Import Routine for Wordpress
 
 ## Don't Forget to Donate
 CashApp: $yahooadmin 
