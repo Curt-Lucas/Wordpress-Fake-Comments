@@ -1,18 +1,16 @@
-# Wordpress-Fake-Comments
-A collection of comments for wordpress or other systems. Guaranteed fresh and adds seo value, this is not duplicate data.
+# Wordpress Fake Comments
+A collection of fresh seo valuable comments for wordpress. I've included a user import routine.
 
 ## Contents
- + 89,000 Unique Comments
+ + ~250,000 Unique Comments (messages.sql)
+ + Wordpress User Import Routine (user_import.php)
 
 ## About the Data
  + It's captured from live streams (ie. TikTok, YouTube, Instagram)
  + It's not scraped from search indexed data
- + It's current (04-20-2022)
+ + It's current (04-20-2022 through 04-25-2022)
  + Add SEO value to your website
- + Friendly format (plaintext, sql)
-
-## What's Next?
- + Comment Import Routine for Wordpress
+ + Friendly format (sql)
 
 ## Don't Forget to Donate
 CashApp: $yahooadmin 
