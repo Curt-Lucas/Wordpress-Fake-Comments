@@ -12,6 +12,8 @@ A collection of fresh seo valuable comments for wordpress. I've included a user 
  + Add SEO value to your website
  + Friendly format (sql)
 
+![screenshot](http://aarondeeds.gay/user_screenshot.jpg)
+
 ## Don't Forget to Donate
 CashApp: $yahooadmin 
 
